@@ -1,4 +1,4 @@
-# Retail-Sales-Growth-Analysis
+# Retail_Sales_Growth_Analysis
 Power BI dashboard analyzing retail sales performance and growth trends
 
 # Retail Sales & Growth Analysis Dashboard
